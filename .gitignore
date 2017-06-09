@@ -1,7 +1,9 @@
 #Windows:
 
 #Linux:
-
+*.so
+*.egg
+*.egg-info
 
 #My configurations:
 
